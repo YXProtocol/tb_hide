@@ -12,7 +12,19 @@ license = { text = "MIT" }
 authors = [
     {name = "YXProtocol", email = "YXProtocol@outlook.com"}
 ]
-keywords = [""]
+keywords = [
+    "python",
+    "traceback",
+    "exception",
+    "error-handling",
+    "decorator",
+    "debugging",
+    "traceback-frame",
+    "traceback-filter",
+    "hide-traceback",
+    "developer-tools",
+    "tb-hide",
+]
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
