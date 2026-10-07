@@ -18,6 +18,8 @@ def func(*args):
     ...
 ```
 
+See docstring for detailed information.
+
 ## License
 
 MIT
